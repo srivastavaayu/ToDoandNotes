@@ -1,0 +1,11 @@
+.ToDos {
+  width: 70vw;
+  margin: auto auto;
+}
+.ToDo {
+  border: 1px solid black;
+  padding: 5px;
+}
+.ToDoTitle {
+  font-size: 1.3rem;
+}

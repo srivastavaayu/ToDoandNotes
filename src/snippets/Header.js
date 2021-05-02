@@ -49,7 +49,7 @@ function Header() {
                   </NavLink>
                 </li>
                 <li className="nav-item">
-                  <NavLink className="nav-link" to="/To-Do">
+                  <NavLink className="nav-link" to="/ToDos">
                     To-Do
                   </NavLink>
                 </li>

@@ -1,0 +1,11 @@
+.Notes {
+  width: 70vw;
+  margin: auto auto;
+}
+.Note {
+  border: 1px solid black;
+  padding: 5px;
+}
+.NoteTitle {
+  font-size: 1.3rem;
+}
